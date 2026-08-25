@@ -1,0 +1,14 @@
+C:\Users\Yuri\Desktop\atividades\Animal\bin\Debug\net10.0\Animal.exe
+C:\Users\Yuri\Desktop\atividades\Animal\bin\Debug\net10.0\Animal.deps.json
+C:\Users\Yuri\Desktop\atividades\Animal\bin\Debug\net10.0\Animal.runtimeconfig.json
+C:\Users\Yuri\Desktop\atividades\Animal\bin\Debug\net10.0\Animal.dll
+C:\Users\Yuri\Desktop\atividades\Animal\bin\Debug\net10.0\Animal.pdb
+C:\Users\Yuri\Desktop\atividades\Animal\obj\Debug\net10.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri\Desktop\atividades\Animal\obj\Debug\net10.0\Animal.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\atividades\Animal\obj\Debug\net10.0\Animal.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\atividades\Animal\obj\Debug\net10.0\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\atividades\Animal\obj\Debug\net10.0\Animal.dll
+C:\Users\Yuri\Desktop\atividades\Animal\obj\Debug\net10.0\refint\Animal.dll
+C:\Users\Yuri\Desktop\atividades\Animal\obj\Debug\net10.0\Animal.pdb
+C:\Users\Yuri\Desktop\atividades\Animal\obj\Debug\net10.0\Animal.genruntimeconfig.cache
+C:\Users\Yuri\Desktop\atividades\Animal\obj\Debug\net10.0\ref\Animal.dll

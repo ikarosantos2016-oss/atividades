@@ -1,0 +1,14 @@
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\obj\Debug\net10.0\JogadorFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\obj\Debug\net10.0\JogadorFutebol.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\obj\Debug\net10.0\JogadorFutebol.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\obj\Debug\net10.0\JogadorFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\bin\Debug\net10.0\JogadorFutebol.exe
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\bin\Debug\net10.0\JogadorFutebol.deps.json
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\bin\Debug\net10.0\JogadorFutebol.runtimeconfig.json
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\bin\Debug\net10.0\JogadorFutebol.dll
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\bin\Debug\net10.0\JogadorFutebol.pdb
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\obj\Debug\net10.0\JogadorFutebol.dll
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\obj\Debug\net10.0\refint\JogadorFutebol.dll
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\obj\Debug\net10.0\JogadorFutebol.pdb
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\obj\Debug\net10.0\JogadorFutebol.genruntimeconfig.cache
+C:\Users\Yuri\Desktop\atividades\JogadorFutebol\obj\Debug\net10.0\ref\JogadorFutebol.dll
