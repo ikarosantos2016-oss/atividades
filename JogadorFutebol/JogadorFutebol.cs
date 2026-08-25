@@ -27,7 +27,7 @@ public class JogadorFutebol
 
     public void Correr()
     {
-        if(EstadoJogando = true && Energia > 0)
+        if(EstadoJogando == true && Energia > 0)
         {
             Energia -= 10;
             System.Console.WriteLine($"Quantidade de energia: {Energia}");
@@ -40,7 +40,7 @@ public class JogadorFutebol
 
     public void FazerGol()
     {
-        if(EstadoJogando = true && Energia > 0)
+        if(EstadoJogando == true && Energia > 0)
         {
             Gols++;
             Energia -= 5;
@@ -54,7 +54,7 @@ public class JogadorFutebol
 
     public void Descansar()
     {
-        if(EstadoJogando = false && Energia < 100)
+        if(EstadoJogando == false && Energia < 100)
         {
             Energia += 20;
             System.Console.WriteLine($"O jogador agora esta com {Energia} de energia");
