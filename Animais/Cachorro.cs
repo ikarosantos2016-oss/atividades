@@ -1,14 +1,14 @@
 internal class Cachorro : Animais{
 
-public override void FazerSom()
+    public override void FazerSom()
 
-{
-    System.Console.WriteLine($"{Nome} faz: Au au!");
-}
+    {
+        System.Console.WriteLine($"{Nome} faz: Au au!");
+    }
 
-public override void Mover()
-{
-    System.Console.WriteLine($"{Nome} corre com quatro patas");
-}
+    public override void Mover()
+    {
+        System.Console.WriteLine($"{Nome} corre com quatro patas");
+    }
 
 }

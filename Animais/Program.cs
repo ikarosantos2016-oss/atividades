@@ -9,4 +9,6 @@
 
         pinto.FazerSom();
         pinto.Mover();
-    }
+}
+
+Main();
