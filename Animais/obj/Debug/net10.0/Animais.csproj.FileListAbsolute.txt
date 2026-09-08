@@ -1,0 +1,15 @@
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\Animais.AssemblyInfoInputs.cache
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\Animais.AssemblyInfo.cs
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\Animais.csproj.CoreCompileInputs.cache
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\Animais.sourcelink.json
+C:\Users\20261038060039\Desktop\POO\atividades\animais\bin\Debug\net10.0\Animais.exe
+C:\Users\20261038060039\Desktop\POO\atividades\animais\bin\Debug\net10.0\Animais.deps.json
+C:\Users\20261038060039\Desktop\POO\atividades\animais\bin\Debug\net10.0\Animais.runtimeconfig.json
+C:\Users\20261038060039\Desktop\POO\atividades\animais\bin\Debug\net10.0\Animais.dll
+C:\Users\20261038060039\Desktop\POO\atividades\animais\bin\Debug\net10.0\Animais.pdb
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\Animais.dll
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\refint\Animais.dll
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\Animais.pdb
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\Animais.genruntimeconfig.cache
+C:\Users\20261038060039\Desktop\POO\atividades\animais\obj\Debug\net10.0\ref\Animais.dll
