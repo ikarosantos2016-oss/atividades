@@ -1,5 +1,4 @@
-﻿public class Program{
-    public static void Main(){
+﻿void Main(){
         Animais rex = new Cachorro();
         rex.Nome = "Rex";
         Animais pinto = new Passaro();
@@ -11,4 +10,3 @@
         pinto.FazerSom();
         pinto.Mover();
     }
-}
