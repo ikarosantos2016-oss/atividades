@@ -1,0 +1,15 @@
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\bin\Debug\net10.0\AulaClassAbstrata.exe
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\bin\Debug\net10.0\AulaClassAbstrata.deps.json
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\bin\Debug\net10.0\AulaClassAbstrata.runtimeconfig.json
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\bin\Debug\net10.0\AulaClassAbstrata.dll
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\bin\Debug\net10.0\AulaClassAbstrata.pdb
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\AulaClassAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\AulaClassAbstrata.AssemblyInfoInputs.cache
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\AulaClassAbstrata.AssemblyInfo.cs
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\AulaClassAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\AulaClassAbstrata.sourcelink.json
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\AulaClassAbstrata.dll
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\refint\AulaClassAbstrata.dll
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\AulaClassAbstrata.pdb
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\AulaClassAbstrata.genruntimeconfig.cache
+C:\Users\20261038060039\Desktop\POO\atividades\AulaClassAbstrata\obj\Debug\net10.0\ref\AulaClassAbstrata.dll
