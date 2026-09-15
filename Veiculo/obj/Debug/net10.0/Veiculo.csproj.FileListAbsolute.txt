@@ -1,0 +1,15 @@
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\Veiculo.AssemblyInfoInputs.cache
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\Veiculo.AssemblyInfo.cs
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\Veiculo.sourcelink.json
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\bin\Debug\net10.0\Veiculo.exe
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\bin\Debug\net10.0\Veiculo.deps.json
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\bin\Debug\net10.0\Veiculo.runtimeconfig.json
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\bin\Debug\net10.0\Veiculo.dll
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\bin\Debug\net10.0\Veiculo.pdb
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\Veiculo.dll
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\refint\Veiculo.dll
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\Veiculo.pdb
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\Veiculo.genruntimeconfig.cache
+C:\Users\20261038060039\Desktop\POO\atividades\Veiculo\obj\Debug\net10.0\ref\Veiculo.dll
