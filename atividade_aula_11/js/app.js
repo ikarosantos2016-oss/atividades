@@ -1,5 +1,5 @@
 const livros = [
-    {id: 1, titulo: "Harry Potter e a Pedra Filosofal", autor: "J. K. Rowling", categoria: "Fantasia", total: 15, emprestados: 15, ativo: true},
+    {id: 1, titulo: "Harry Potter e a Pedra Filosofal", autor: "J. K. Rowling", categoria: "Fantasia", total: 15, emprestados: 4, ativo: true},
     {id: 2, titulo: "Harry Potter e a Câmara Secreta", autor: "J. K. Rowling", categoria: "Fantasia", total: 20, emprestados: 5, ativo: true},
     {id: 3, titulo: "Harry Potter e o Prisioneiro de Azkaban", autor: "J. K. Rowling", categoria: "Fantasia", total: 25, emprestados: 6, ativo: true},
     {id: 4, titulo: "Harry Potter e o Cálice de Fogo", autor: "J. K. Rowling", categoria: "Fantasia", total: 30, emprestados: 7, ativo: true}
@@ -43,3 +43,11 @@ const possuiAutor = livros.every((livro) => {
 });
 
 //console.log(`Teste de livro com autor: ${possuiAutor ? "Todos os livros possuem autor!" : "Algum livro não possui autor!"}`);
+
+const capacidadeTotal = livros.reduce((acumulador, livro) => {
+    return acumulador + calcularDisponiveis(livro);
+}, 0);
+
+//console.log(`Quantidade total de livros disponiveis é: ${capacidadeTotal}`);
+
+console.table(resumos);
