@@ -8,32 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Yuri\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ranusia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yuri\\Desktop\\atividades\\ContaBancaria\\ContaBancaria.csproj",
+      "projectUniqueName": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ContaBancaria\\ContaBancaria.csproj",
       "projectName": "ContaBancaria",
-      "projectPath": "C:\\Users\\Yuri\\Desktop\\atividades\\ContaBancaria\\ContaBancaria.csproj",
-      "packagesPath": "C:\\Users\\Yuri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yuri\\Desktop\\atividades\\ContaBancaria\\obj\\",
+      "projectPath": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ContaBancaria\\ContaBancaria.csproj",
+      "packagesPath": "C:\\Users\\Ranusia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ContaBancaria\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Yuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Ranusia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

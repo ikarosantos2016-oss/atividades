@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atrazei_aula_poo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8cc31e9e23d070489eabd71004fbd3dfca4160f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atrazei_aula_poo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atrazei_aula_poo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
