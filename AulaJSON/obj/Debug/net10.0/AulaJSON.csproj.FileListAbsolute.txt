@@ -1,0 +1,15 @@
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\AulaJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\AulaJSON.AssemblyInfoInputs.cache
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\AulaJSON.AssemblyInfo.cs
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\AulaJSON.csproj.CoreCompileInputs.cache
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\AulaJSON.sourcelink.json
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\bin\Debug\net10.0\AulaJSON.exe
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\bin\Debug\net10.0\AulaJSON.deps.json
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\bin\Debug\net10.0\AulaJSON.runtimeconfig.json
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\bin\Debug\net10.0\AulaJSON.dll
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\bin\Debug\net10.0\AulaJSON.pdb
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\AulaJSON.dll
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\refint\AulaJSON.dll
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\AulaJSON.pdb
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\AulaJSON.genruntimeconfig.cache
+C:\Users\20261038060039\Desktop\POO\atividades\AulaJSON\obj\Debug\net10.0\ref\AulaJSON.dll
