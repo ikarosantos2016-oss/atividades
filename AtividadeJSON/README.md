@@ -1,0 +1,1 @@
+Unir as estruturas das aulas AulaJSON e AulaSerializacao, adicionar estrutura de try catch. Objetivo principal permitir que o usuario escolha qual tipo de arquivo vai gerar, json ou XMl.
