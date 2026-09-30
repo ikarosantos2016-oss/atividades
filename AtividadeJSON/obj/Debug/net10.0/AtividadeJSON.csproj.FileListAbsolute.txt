@@ -1,0 +1,15 @@
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\AtividadeJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\AtividadeJSON.AssemblyInfoInputs.cache
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\AtividadeJSON.AssemblyInfo.cs
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\AtividadeJSON.csproj.CoreCompileInputs.cache
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\AtividadeJSON.sourcelink.json
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\bin\Debug\net10.0\AtividadeJSON.exe
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\bin\Debug\net10.0\AtividadeJSON.deps.json
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\bin\Debug\net10.0\AtividadeJSON.runtimeconfig.json
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\bin\Debug\net10.0\AtividadeJSON.dll
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\bin\Debug\net10.0\AtividadeJSON.pdb
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\AtividadeJSON.dll
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\refint\AtividadeJSON.dll
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\AtividadeJSON.pdb
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\AtividadeJSON.genruntimeconfig.cache
+C:\Users\Ranusia\Desktop\Atividades Íkaro\atividades\AtividadeJSON\obj\Debug\net10.0\ref\AtividadeJSON.dll

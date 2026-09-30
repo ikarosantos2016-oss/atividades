@@ -1,6 +1,7 @@
-abstract class Arquivo
+public abstract class Arquivo
 {
-    public string Escrever;
-    public string Ler;
-    
+    public string Caminho { get; set;}
+    public abstract string Escrever();
+    public abstract void Ler();
+
 }
