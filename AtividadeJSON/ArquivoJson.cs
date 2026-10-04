@@ -1,4 +1,5 @@
 using System.Text.Json;
+using System.IO;
 
 public class ArquivoJson : Arquivo
 {
@@ -10,9 +11,10 @@ public class ArquivoJson : Arquivo
 
         string jsonString = JsonSerializer.Serialize(book);
 
-        Caminho = Environment.GetFolderPath
-            (Environment.SpecialFolder.MyDocuments) +
-            "\\book.json";
+        Caminho = "Book.json";
+        // Caminho = Environment.GetFolderPath
+        //     (Environment.SpecialFolder.MyDocuments) +
+        //     "\\book.json";
 
         File.WriteAllText(Caminho, jsonString);
 
@@ -21,10 +23,6 @@ public class ArquivoJson : Arquivo
 
     public override void Ler()
     {
-        Caminho = Environment.GetFolderPath
-            (Environment.SpecialFolder.MyDocuments) +
-            "\\book.json";
-
         string jsonString = File.ReadAllText(Caminho);
 
         var obj = JsonSerializer.Deserialize<Book>(jsonString);

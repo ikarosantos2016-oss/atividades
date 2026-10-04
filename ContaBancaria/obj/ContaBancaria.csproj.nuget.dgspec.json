@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ContaBancaria\\ContaBancaria.csproj": {}
+    "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ContaBancaria\\ContaBancaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ContaBancaria\\ContaBancaria.csproj": {
+    "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ContaBancaria\\ContaBancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ContaBancaria\\ContaBancaria.csproj",
+        "projectUniqueName": "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ContaBancaria\\ContaBancaria.csproj",
         "projectName": "ContaBancaria",
-        "projectPath": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ContaBancaria\\ContaBancaria.csproj",
-        "packagesPath": "C:\\Users\\Ranusia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ContaBancaria\\obj\\",
+        "projectPath": "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ContaBancaria\\ContaBancaria.csproj",
+        "packagesPath": "C:\\Users\\Ikaro Santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ContaBancaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ranusia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ikaro Santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\AulaInterface\\AulaInterface.csproj": {}
+    "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\AulaInterface\\AulaInterface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\AulaInterface\\AulaInterface.csproj": {
+    "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\AulaInterface\\AulaInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\AulaInterface\\AulaInterface.csproj",
+        "projectUniqueName": "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\AulaInterface\\AulaInterface.csproj",
         "projectName": "AulaInterface",
-        "projectPath": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\AulaInterface\\AulaInterface.csproj",
-        "packagesPath": "C:\\Users\\Ranusia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\AulaInterface\\obj\\",
+        "projectPath": "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\AulaInterface\\AulaInterface.csproj",
+        "packagesPath": "C:\\Users\\Ikaro Santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\AulaInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ranusia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ikaro Santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

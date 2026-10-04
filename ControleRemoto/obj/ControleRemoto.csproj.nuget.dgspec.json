@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ControleRemoto\\ControleRemoto.csproj": {}
+    "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ControleRemoto\\ControleRemoto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ControleRemoto\\ControleRemoto.csproj": {
+    "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ControleRemoto\\ControleRemoto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ControleRemoto\\ControleRemoto.csproj",
+        "projectUniqueName": "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ControleRemoto\\ControleRemoto.csproj",
         "projectName": "ControleRemoto",
-        "projectPath": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ControleRemoto\\ControleRemoto.csproj",
-        "packagesPath": "C:\\Users\\Ranusia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ranusia\\Desktop\\Atividades Íkaro\\atividades\\ControleRemoto\\obj\\",
+        "projectPath": "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ControleRemoto\\ControleRemoto.csproj",
+        "packagesPath": "C:\\Users\\Ikaro Santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ikaro Santos\\Desktop\\atividades\\atividades\\ControleRemoto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ranusia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ikaro Santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

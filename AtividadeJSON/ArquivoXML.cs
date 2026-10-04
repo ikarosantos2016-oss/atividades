@@ -1,17 +1,18 @@
 using System.Xml.Serialization;
+using System.IO;
+using System.Xml.Serialization;
 public class ArquivoXML : Arquivo
 {
     public override string Escrever()
     {
-        Book book = new Book() { title = "Harry Potter 2" };
-        // Prepara objeto serializador:
+        Caminho = "book.xml";
+
         XmlSerializer writer = new XmlSerializer(typeof(Book));
-        Caminho = Environment.GetFolderPath
-            (Environment.SpecialFolder.MyDocuments) + "\\livro.xml";
-        FileStream arquivoXML = File.Create(Caminho);
-        // Realiza a serialização e gravação no disco:
-        writer.Serialize(arquivoXML, book);
-        arquivoXML.Close();
+
+        using (FileStream arquivoXML = File.Create(Caminho))
+        {
+            writer.Serialize(arquivoXML, new Book {title = "Harry Potter"});
+        }
         return Caminho;
     }
 
@@ -19,24 +20,22 @@ public class ArquivoXML : Arquivo
     {
         try
         {
-            // Prepara objeto serializador:
+            
             XmlSerializer reader = new XmlSerializer(typeof(Book));
-            //Prepara o arquivo XML
-            Caminho = Environment.GetFolderPath
-                (Environment.SpecialFolder.MyDocuments) + "\\livro.xml";
-            StreamReader arquivoXML = new StreamReader(Caminho);
-            // Deserialização do XML para objeto:
-            Book book = (Book)reader.Deserialize(arquivoXML);
-            Console.WriteLine($"Livro: {book.title}");
-            arquivoXML.Close();
+
+            using (StreamReader arquivoXML = new StreamReader(Caminho))
+            {
+                Book book = (Book)reader.Deserialize(arquivoXML);
+                Console.WriteLine($"Livro: {book.title}");
+            }
         }
-        catch (System.IO.FileNotFoundException)
+        catch (FileNotFoundException)
         {
-            Console.WriteLine("Arquivo não encontrado.");
+            System.Console.WriteLine("Arquivo não encontrado");
         }
         catch (Exception)
         {
-            Console.WriteLine("Ocorreu um erro ao ler o arquivo.");
+            System.Console.WriteLine("Ocorreu um erro ao ler o arquivo");
         }
     }
 }

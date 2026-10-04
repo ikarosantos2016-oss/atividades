@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AulaJSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d4769ec0b2e6ca401db8ce31156f50f6c80a121")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AulaJSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AulaJSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
