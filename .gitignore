@@ -1,2 +1,24 @@
-[Oo]bj/
+# Pastas de compilação
 [Bb]in/
+[Oo]bj/
+
+# Arquivos de configurações locais do Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Cache e arquivos temporários do .NET
+*.lscache.stamp
+*.assets.cache
+
+# Configurações do VS Code (ignora cache, mas mantém regras de inicialização se existirem)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Arquivos do Sistema Operacional
+Thumbs.db
+.DS_Store
