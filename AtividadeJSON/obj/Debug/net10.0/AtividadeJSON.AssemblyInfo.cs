@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeJSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bcf1a32a4323ecfb3d19b5a6909aa447f0e89c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeJSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeJSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
